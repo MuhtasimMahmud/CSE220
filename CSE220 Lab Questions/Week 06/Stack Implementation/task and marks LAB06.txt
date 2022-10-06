@@ -1,0 +1,25 @@
+For array based: (marks 8)
+    public int size(); 1
+
+    public boolean isEmpty(); 1
+
+    public void push(Object e) throws StackOverflowException; 1
+
+    public Object pop() throws StackUnderflowException; 1
+
+    public Object peek() throws StackUnderflowException; 1
+
+    public String toString(); 1
+
+    public Object[] toArray(); 1
+
+    public int search(Object e); 1
+
+For linked list based: (marks 4)
+    public int size(); 1
+
+    public boolean isEmpty(); 1
+
+    public void push(Object e) throws StackOverflowException; 1
+
+    public Object pop() throws StackUnderflowException; 1

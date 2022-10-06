@@ -1,0 +1,6 @@
+Class performance     10%
+Quiz                  20%     # two quizzes, average counted
+Homework              5%
+Project               15% (midterm update 5%, final update 7%, GUI 3%)
+                     ------
+             	      50%
